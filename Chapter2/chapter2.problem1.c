@@ -1,3 +1,4 @@
+// 1.Write a C program that prints "Hello, World!" to the console.
 #include <stdio.h>
 
 int main()
@@ -5,3 +6,4 @@ int main()
     printf("Hello World");
     return 0;
 }
+
